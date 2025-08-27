@@ -3,4 +3,5 @@ requests
 gitpython
 Pillow
 google-generativeai
+python-dotenv
 # Add any other dependencies used by your agents below
